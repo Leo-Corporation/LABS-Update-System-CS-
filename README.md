@@ -17,9 +17,9 @@ Si vous voulez utiliser le système de mise à jour dans votre application, merc
 Ajoutez dans le code :
 
 ```
-'LABS Update System for C#
-'By Leo Corporation
-'(c) 2020
+// LABS Update System for C#
+// By Leo Corporation
+// (c) 2020
 ```
 Et ajoutez les crédits suivant dans votre fenêtre "à propos" :
 Système de mise à jour par Léo Corporation.
@@ -27,9 +27,9 @@ Système de mise à jour par Léo Corporation.
 Ajoutez dans le code :
 
 ```
-'LABS Custom Update System for C#
-'By Leo Corporation
-'(c) 2020
+// LABS Custom Update System for C#
+// By Leo Corporation
+// (c) 2020
 ```
 Et ajoutez les crédits suivant dans votre fenêtre "à propos" :
 Système de mise à jour par Léo Corporation.
