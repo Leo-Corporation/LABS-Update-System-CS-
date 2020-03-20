@@ -1,3 +1,7 @@
+# Information
+LABS (Custom) Update System [VB] et LABS (Custom) Update System [C#] sont désormais intégrés dans [**LeoCorpLibrary**](https://github.com/Leo-Corporation/LeoCorpLibrary)
+
+Vous pouvez utiliser toutes les fonctionnalités présentes dans ce répertoire dans la nouvelle bibliothèque. 
 # LABS Update System [C#]
 ## 1. Introduction
 Labs Update System est utilisé dans toutes les applications LC.
