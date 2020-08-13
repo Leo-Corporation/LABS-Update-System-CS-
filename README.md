@@ -1,5 +1,5 @@
 # Information
-![Le projet a déménagé](https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Documentation/Images/LABS/Banni%C3%A8re%20LABS%20d%C3%A9m%C3%A9nage.png)
+![Le projet a déménagé](https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Documentation/Images/LABS/Projet%20LABS%20D%C3%A9m%C3%A9nage.png)
 
 **LABS (Custom) Update System [VB] et LABS (Custom) Update System [C#] sont désormais intégrés dans [**LeoCorpLibrary**](https://github.com/Leo-Corporation/LeoCorpLibrary)**.
 
