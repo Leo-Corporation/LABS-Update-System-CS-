@@ -6,6 +6,8 @@
 Utilisez LeoCorpLibrary pour implémenter ce système plus facilement dans vos projets.
 Vous pouvez utiliser toutes les fonctionnalités présentes dans ce répertoire dans la nouvelle bibliothèque. 
 
+**WARNING: THIS REPO WILL BE ARCHIVED ON SUNDAY, SEPTEMBER 4TH.**
+
 # LABS Update System [C#]
 ## 1. Introduction
 Labs Update System est utilisé dans toutes les applications LC.
